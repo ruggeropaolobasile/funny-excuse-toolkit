@@ -1,0 +1,1 @@
+Si è verificato {reason}, con impatto temporaneo sulla mia operatività. La situazione è ora sotto controllo.

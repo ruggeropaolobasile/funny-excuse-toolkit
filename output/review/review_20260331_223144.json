@@ -1,0 +1,20 @@
+{
+  "created_at": "20260331_223144",
+  "problem": "ritardo",
+  "tone": "corporate",
+  "status": "pending_human_review",
+  "candidates": [
+    {
+      "id": 1,
+      "text": "Si è verificato un conflitto tra sveglia e destino, con impatto temporaneo sulla mia operatività. La situazione è ora sotto controllo."
+    },
+    {
+      "id": 2,
+      "text": "Si è verificato un imprevisto logistico non negoziabile, con impatto temporaneo sulla mia operatività. La situazione è ora sotto controllo."
+    },
+    {
+      "id": 3,
+      "text": "Si è verificato un temporaneo collasso del continuum spazio-temporale, con impatto temporaneo sulla mia operatività. La situazione è ora sotto controllo."
+    }
+  ]
+}

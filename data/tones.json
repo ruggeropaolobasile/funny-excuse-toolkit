@@ -1,0 +1,5 @@
+{
+  "short": "{reason}. Sto recuperando.",
+  "corporate": "Si è verificato {reason}, con impatto temporaneo sulla mia operatività. La situazione è ora sotto controllo.",
+  "epic": "Nel momento decisivo, {reason} ha ostacolato il mio cammino. Ma nonostante tutto, sono tornato."
+}
